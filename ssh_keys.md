@@ -23,3 +23,5 @@ cat .ssh/id_rsa.pub
 
 then copy the whole output to the ssh configuration that you'll use
 the last comment on the ssh file is this thing ...@... - which means $USER @ $HOSTNAME
+
+uwu
