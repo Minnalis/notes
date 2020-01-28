@@ -1,17 +1,17 @@
-# how2use git 
+# how2use git
 
-para enviar algo a git es :
+sending archives to git :
 
 ```bash
 git add file1 file2 file3
 git commit 
 ```
-git commit -m "explicacion de lo que he hecho"
+git commit -m "is the explication for what ive done to the file"
 
 ```bash
 git push github master
 ```
 
-git push -U github master "dice que github master es el por defecto de esta rama para que luego no pregunte"
+git push -U github master "it says that  github master is the default branch so it dont needs to ask later"
 
 owo
