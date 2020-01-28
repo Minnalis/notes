@@ -13,3 +13,5 @@ git push github master
 ```
 
 git push -U github master "dice que github master es el por defecto de esta rama para que luego no pregunte"
+
+owo
