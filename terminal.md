@@ -44,7 +44,8 @@ number + G
 o O
 /
 dd
-``
+```
+
 vim file to open the file and edit it
 
 i can write in the file
